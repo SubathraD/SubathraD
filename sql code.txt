@@ -1,5 +1,0 @@
-CREATE TABLE Employee (
-    Employee_ID int,
-    Employee_Name varchar(500),
-    Experience varchar(500),
-);
